@@ -16,13 +16,11 @@ I love turning ideas into reality through code and collaborating with like-minde
 ## 🛠️ Tech Stack
 ```yaml
 languages:
-  - [Your Programming Languages Here]
+  - [Java,C++,Python,Kotlin,PHP,Javascript etc.]
 frameworks_libraries:
-  - [e.g., React, Django, Flask]
+  - [e.g., MERN stack, Laravel, Mysql etc,NextJS]
 tools:
-  - [e.g., Docker, Kubernetes, Git]
-cloud_platforms:
-  - [e.g., AWS, Azure, GCP]
+  - [e.g., Git&Github,Android,Postmann,PowerBI etc]
 ```
 
 ---
